@@ -1,10 +1,5 @@
 localStorage.setItem('selectedGame', 'custom');
 
-localStorage.setItem('custom0-name', 'Delta Bulbasaur');
-localStorage.setItem('custom0-encounter', 'delta-bulbasaur');
-localStorage.setItem('custom0-nickname', 'Sparky');
-localStorage.setItem('custom0-status', 'captured');
-
 /* Pokemon Entry:
 -----------------
 customX-name: Pokemon Species name

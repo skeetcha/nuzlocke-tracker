@@ -1,9 +1,5 @@
 games.custom.title = 'Insurgence';
 games.custom.locations = [
-    {
-        'name': 'Starter',
-        'value': 0
-    }
 ];
 
 /*
