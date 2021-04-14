@@ -1,6 +1,14 @@
 games.custom.title = 'Insurgence';
 games.custom.locations = [];
 
+/*
+Format for Locations:
+{
+    "name": "Insert Name Here",
+    "value": integer
+}
+*/
+
 setTimeout(function() {
     var head = document.querySelector('div#gameMenu div.menu');
 
