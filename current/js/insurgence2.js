@@ -17,3 +17,8 @@ localStorage.setItem("custom1-name", "Pikachu");
 localStorage.setItem("custom1-encounter", "pikachu");
 localStorage.setItem("custom1-nickname", "");
 localStorage.setItem("custom1-status", "missed");
+
+localStorage.setItem("custom2-name", "Nosepass");
+localStorage.setItem("custom2-encounter", "nosepass");
+localStorage.setItem("custom2-nickname", "Achoo");
+localStorage.setItem("custom2-status", "captured");

@@ -7,6 +7,10 @@ games.custom.locations = [
     {
         "name": "Shade Forest",
         "value": 1
+    },
+    {
+        "name": "Telnor Cave",
+        "value": 2
     }
 ];
 
