@@ -11,7 +11,7 @@ customX-status: captured | received | traded | missed | stored | deceased
 localStorage.setItem("custom0-name", "Delta Charmander");
 localStorage.setItem("custom0-encounter", "delta-charmander");
 localStorage.setItem("custom0-nickname", "Whispy");
-localStorage.setItem("custom0-status", "received");
+localStorage.setItem("custom0-status", "deceased");
 
 localStorage.setItem("custom1-name", "Nidoran♀");
 localStorage.setItem("custom1-encounter", "nidoran-female");
