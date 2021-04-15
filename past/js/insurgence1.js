@@ -16,7 +16,7 @@ localStorage.setItem("custom0-status", "deceased");
 localStorage.setItem("custom1-name", "Nidoran♀");
 localStorage.setItem("custom1-encounter", "nidoran-female");
 localStorage.setItem("custom1-nickname", "Spiky");
-localStorage.setItem("custom1-status", "captured");
+localStorage.setItem("custom1-status", "deceased");
 
 localStorage.setItem("custom2-name", "Roggenrola");
 localStorage.setItem("custom2-encounter", "roggenrola");

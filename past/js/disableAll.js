@@ -1,5 +1,17 @@
 games.custom.title = 'Insurgence';
 games.custom.locations = [
+    {
+        "name": "Starter",
+        "value": 0
+    },
+    {
+        "name": "Shade Forest",
+        "value": 1
+    },
+    {
+        "name": "Telnor Cave",
+        "value": 2
+    }
 ];
 
 /*
