@@ -11,6 +11,10 @@ games.custom.locations = [
     {
         "name": "Telnor Cave",
         "value": 2
+    },
+    {
+        "name": "Route 1",
+        "value": 3
     }
 ];
 

@@ -22,3 +22,8 @@ localStorage.setItem("custom2-name", "Nosepass");
 localStorage.setItem("custom2-encounter", "nosepass");
 localStorage.setItem("custom2-nickname", "Achoo");
 localStorage.setItem("custom2-status", "captured");
+
+localStorage.setItem("custom3-name", "Hoppip");
+localStorage.setItem("custom3-encounter", "hoppip");
+localStorage.setItem("custom3-nickname", "");
+localStorage.setItem("custom3-status", "missed");
