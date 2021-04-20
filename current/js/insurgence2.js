@@ -27,3 +27,8 @@ localStorage.setItem("custom3-name", "Hoppip");
 localStorage.setItem("custom3-encounter", "hoppip");
 localStorage.setItem("custom3-nickname", "");
 localStorage.setItem("custom3-status", "missed");
+
+localStorage.setItem("custom4-name", "Woobat");
+localStorage.setItem("custom4-encounter", "woobat");
+localStorage.setItem("custom4-nickname", "");
+localStorage.setItem("custom4-status", "missed");

@@ -15,6 +15,10 @@ games.custom.locations = [
     {
         "name": "Route 1",
         "value": 3
+    },
+    {
+        "name": "Midna Mine",
+        "value": 4
     }
 ];
 
