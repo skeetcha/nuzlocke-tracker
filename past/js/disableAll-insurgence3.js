@@ -1,5 +1,14 @@
 games.custom.title = 'Insurgence';
-games.custom.locations = [];
+games.custom.locations = [
+    {
+        "name": "Starter",
+        "value": 0
+    },
+    {
+        "name": "Shade Forest",
+        "value": 1
+    }
+];
 
 /*
 Format for Locations:
