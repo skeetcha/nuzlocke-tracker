@@ -3,6 +3,10 @@ games.custom.locations = [
     {
         "name": "Starter",
         "value": 0
+    },
+    {
+        "name": "Telnor Forest",
+        "value": 1
     }
 ];
 
